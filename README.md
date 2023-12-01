@@ -1,7 +1,7 @@
 # Welcome !
-- 👋 Hi, I’m Ilie ! Also known as "MaskMajor"
+- 👋 Hi, I’m also known as "MaskMajor"
 - 👀 I’m interested in art, and anything related to the process of making games !
-- 🌱 I’m currently learning a lot of shit at college, I'm planning to mostly focus on C#
+- 🌱 I’m currently learning a lot of shit at college (lol)
 - 📫 You can find more details about me [here](https://maskmajor.neocities.org/)
 
 <!---
